@@ -54,3 +54,19 @@ buck-out/
 
 # Bundle artifact
 *.jsbundle
+
+#in our project
+*.iml
+.gradle
+/local.properties
+.idea
+/build
+/app/build
+*.xcbkptlist
+*.xcuserstate
+project.xcworkspace
+xcuserdata
+UserInterfaceState.xcuserstate
+project.xcworkspace/
+xcuserdata/
+UserInterface.xcuserstate
