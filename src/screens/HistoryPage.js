@@ -9,9 +9,7 @@ import HaveDone from '../HaveDone'
 class HistoryPage extends Component{
     constructor(props){
         super(props);
-        this.state = {
-            times: 0,
-        };
+        this.state = {};
     }
     render(){
         return (
