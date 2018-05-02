@@ -4,7 +4,7 @@ import {
     Content,
     Text,
 } from 'native-base';
-import HaveDone from '../HaveDone'
+
 
 class HistoryPage extends Component{
     constructor(props){
@@ -16,7 +16,6 @@ class HistoryPage extends Component{
             <Container>
                 <Content>
                     <Text>This is History Page.</Text>
-                    <HaveDone/>
                 </Content>
             </Container>
         );
